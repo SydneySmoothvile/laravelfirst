@@ -5,7 +5,7 @@
     <title>Registration</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
-    <link rel="icon" type="image/png" href="a.iso">
+    <link rel="icon" type="*" href="a.iso">
     <style type="text/css">
         body{ 
             font: 16px sans-serif;
