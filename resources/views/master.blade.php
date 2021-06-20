@@ -4,8 +4,10 @@
     <meta charset="UTF-8">
     <title>Registration</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
-    <link rel="icon" type="*" href="a.iso">
+    <link rel="Icon" href="as.ico" type="image/x-icon"/>
     <style type="text/css">
         body{ 
             font: 16px sans-serif;
